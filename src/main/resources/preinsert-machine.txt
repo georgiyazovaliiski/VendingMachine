@@ -1,0 +1,14 @@
+1, Coca cola, 1.45, 40
+1, Snickers, 1.99, 40
+1, Lay's, 2.00, 400
+1, Kamenitza, 3.00, 100
+1, Kit-kat, 1.20, 120
+1, Milka, 1.45, 40
+5
+4, fifty cents, fifty cents, fifty cents, fifty cents, fifty cents, fifty cents, fifty cents, fifty cents, fifty cents, fifty cents
+4, twenty cents,twenty cents,twenty cents,twenty cents,twenty cents,twenty cents,twenty cents,twenty cents,twenty cents,twenty cents
+4, ten cents, ten cents, ten cents, ten cents, ten cents, ten cents, ten cents, ten cents, ten cents, ten cents, ten cents
+4, five cents, five cents, five cents, five cents, five cents, five cents, five cents, five cents, five cents, five cents
+4, two cents,two cents,two cents,two cents,two cents,two cents,two cents,two cents,two cents,two cents,two cents,two cents,
+4, one cent, one cent, one cent, one cent, one cent, one cent, one cent, one cent, one cent, one cent, one cent
+4, one euro
